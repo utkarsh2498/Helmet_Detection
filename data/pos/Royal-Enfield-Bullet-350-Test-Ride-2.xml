@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Royal-Enfield-Bullet-350-Test-Ride-2.jpg</filename>
+	<path>/home/sridharan/Images/Royal-Enfield-Bullet-350-Test-Ride-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1000</xmin>
+			<ymin>60</ymin>
+			<xmax>1229</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

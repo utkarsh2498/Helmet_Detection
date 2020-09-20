@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>main-qimg-bcb900d4824d1a7fc5cbc251405231cf.png</filename>
+	<path>/home/sridharan/Images/main-qimg-bcb900d4824d1a7fc5cbc251405231cf.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>602</width>
+		<height>402</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>23</ymin>
+			<xmax>253</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+</annotation>

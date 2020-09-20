@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>new-suzuki-access-125-zigwheels-india-t1_300x225.jpg</filename>
+	<path>/home/sridharan/Images/new-suzuki-access-125-zigwheels-india-t1_300x225.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>6</ymin>
+			<xmax>163</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+</annotation>

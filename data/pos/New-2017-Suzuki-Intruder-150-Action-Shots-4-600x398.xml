@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>New-2017-Suzuki-Intruder-150-Action-Shots-4-600x398.jpg</filename>
+	<path>/home/sridharan/Images/New-2017-Suzuki-Intruder-150-Action-Shots-4-600x398.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>308</xmin>
+			<ymin>55</ymin>
+			<xmax>351</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+</annotation>
