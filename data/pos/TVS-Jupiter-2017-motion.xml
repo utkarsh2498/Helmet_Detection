@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>TVS-Jupiter-2017-motion.jpg</filename>
+	<path>/home/sridharan/Images/TVS-Jupiter-2017-motion.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>653</width>
+		<height>491</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>11</ymin>
+			<xmax>293</xmax>
+			<ymax>71</ymax>
+		</bndbox>
+	</object>
+</annotation>

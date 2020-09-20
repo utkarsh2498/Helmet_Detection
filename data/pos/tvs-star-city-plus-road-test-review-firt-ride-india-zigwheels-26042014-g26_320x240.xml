@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>tvs-star-city-plus-road-test-review-firt-ride-india-zigwheels-26042014-g26_320x240.jpg</filename>
+	<path>/home/sridharan/Images/tvs-star-city-plus-road-test-review-firt-ride-india-zigwheels-26042014-g26_320x240.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>26</ymin>
+			<xmax>131</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

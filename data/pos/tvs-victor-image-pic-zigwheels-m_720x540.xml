@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>tvs-victor-image-pic-zigwheels-m_720x540.jpg</filename>
+	<path>/home/sridharan/Images/tvs-victor-image-pic-zigwheels-m_720x540.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>48</ymin>
+			<xmax>345</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>

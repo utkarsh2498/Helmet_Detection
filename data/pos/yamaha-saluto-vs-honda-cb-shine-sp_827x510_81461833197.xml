@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>yamaha-saluto-vs-honda-cb-shine-sp_827x510_81461833197.jpg</filename>
+	<path>/home/sridharan/Images/yamaha-saluto-vs-honda-cb-shine-sp_827x510_81461833197.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>827</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>396</xmin>
+			<ymin>18</ymin>
+			<xmax>472</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>
