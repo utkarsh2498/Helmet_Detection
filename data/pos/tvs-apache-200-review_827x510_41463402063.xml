@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>tvs-apache-200-review_827x510_41463402063.jpg</filename>
+	<path>/home/sridharan/Images/tvs-apache-200-review_827x510_41463402063.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>827</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>35</ymin>
+			<xmax>377</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>

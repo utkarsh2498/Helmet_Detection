@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Suzuki-Intruder-150-Tracking-Web.jpg</filename>
+	<path>/home/sridharan/Images/Suzuki-Intruder-150-Tracking-Web.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>152</ymin>
+			<xmax>361</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>tom-cruise-rides-a-bmw-s1000rr-in-the-mission-impossible-5-rogue-nation-video_1.jpg</filename>
+	<path>/home/sridharan/Images/tom-cruise-rides-a-bmw-s1000rr-in-the-mission-impossible-5-rogue-nation-video_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>265</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>13</ymin>
+			<xmax>327</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+</annotation>

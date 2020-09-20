@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>suzuki-gixxer-vs-yamaha-fz-s-version-2-tvs-apache-180-comparison-150-cc-bike-shootout--first-drive-review-road-test-2014-zigwheels-21092014-m33_560x420_560x420.jpg</filename>
+	<path>/home/sridharan/Images/suzuki-gixxer-vs-yamaha-fz-s-version-2-tvs-apache-180-comparison-150-cc-bike-shootout--first-drive-review-road-test-2014-zigwheels-21092014-m33_560x420_560x420.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>46</ymin>
+			<xmax>317</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Tour.jpg</filename>
+	<path>/home/sridharan/Images/Tour.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>760</width>
+		<height>570</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>25</ymin>
+			<xmax>325</xmax>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+</annotation>

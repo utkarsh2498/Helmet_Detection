@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>tvs-apache-rtr-f1-16-3_800x0w.jpg</filename>
+	<path>/home/sridharan/Images/tvs-apache-rtr-f1-16-3_800x0w.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>56</ymin>
+			<xmax>444</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>

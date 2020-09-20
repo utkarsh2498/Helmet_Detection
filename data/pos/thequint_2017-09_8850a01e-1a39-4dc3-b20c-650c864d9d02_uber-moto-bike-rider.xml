@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>thequint_2017-09_8850a01e-1a39-4dc3-b20c-650c864d9d02_uber-moto-bike-rider.jpg</filename>
+	<path>/home/sridharan/Images/thequint_2017-09_8850a01e-1a39-4dc3-b20c-650c864d9d02_uber-moto-bike-rider.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>472</xmin>
+			<ymin>62</ymin>
+			<xmax>834</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+</annotation>
