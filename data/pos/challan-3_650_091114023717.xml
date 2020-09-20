@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>challan-3_650_091114023717.jpg</filename>
+	<path>/home/sridharan/Images/challan-3_650_091114023717.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>514</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>392</xmin>
+			<ymin>30</ymin>
+			<xmax>475</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

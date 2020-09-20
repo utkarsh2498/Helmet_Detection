@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>boy-wears-helmet-sits-on-two-wheeler-or-motor-bike-in-bombay-mumbai-F3FP8N.jpg</filename>
+	<path>/home/sridharan/Images/boy-wears-helmet-sits-on-two-wheeler-or-motor-bike-in-bombay-mumbai-F3FP8N.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>953</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>624</xmin>
+			<ymin>33</ymin>
+			<xmax>848</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

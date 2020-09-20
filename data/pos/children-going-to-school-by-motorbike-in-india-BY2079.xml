@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>children-going-to-school-by-motorbike-in-india-BY2079.jpg</filename>
+	<path>/home/sridharan/Images/children-going-to-school-by-motorbike-in-india-BY2079.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>953</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>775</xmin>
+			<ymin>102</ymin>
+			<xmax>894</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

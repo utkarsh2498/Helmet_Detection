@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>d4a1c54c48d8a78cef0b7e5b5931a1417277284b7c9bc9c8589af7bbfdadcfed_large.jpeg</filename>
+	<path>/home/sridharan/Images/d4a1c54c48d8a78cef0b7e5b5931a1417277284b7c9bc9c8589af7bbfdadcfed_large.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>684</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>84</ymin>
+			<xmax>333</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>

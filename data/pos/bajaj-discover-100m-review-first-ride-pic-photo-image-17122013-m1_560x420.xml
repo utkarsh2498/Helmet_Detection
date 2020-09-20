@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>bajaj-discover-100m-review-first-ride-pic-photo-image-17122013-m1_560x420.jpg</filename>
+	<path>/home/sridharan/Images/bajaj-discover-100m-review-first-ride-pic-photo-image-17122013-m1_560x420.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>48</ymin>
+			<xmax>350</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Apache RTR180 14.JPG</filename>
+	<path>/home/sridharan/Images/Apache RTR180 14.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>830</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>87</ymin>
+			<xmax>399</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>

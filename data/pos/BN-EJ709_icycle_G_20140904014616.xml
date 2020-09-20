@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>BN-EJ709_icycle_G_20140904014616.jpg</filename>
+	<path>/home/sridharan/Images/BN-EJ709_icycle_G_20140904014616.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>553</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>101</ymin>
+			<xmax>299</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

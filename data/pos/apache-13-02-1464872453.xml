@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>apache-13-02-1464872453.jpg</filename>
+	<path>/home/sridharan/Images/apache-13-02-1464872453.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>39</ymin>
+			<xmax>296</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>

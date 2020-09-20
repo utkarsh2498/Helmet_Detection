@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>BL07_02_RAY_1449988g.jpg</filename>
+	<path>/home/sridharan/Images/BL07_02_RAY_1449988g.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>28</ymin>
+			<xmax>336</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>

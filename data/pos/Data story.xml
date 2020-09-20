@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Data story.jpeg</filename>
+	<path>/home/sridharan/Images/Data story.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>516</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>55</ymin>
+			<xmax>299</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+</annotation>

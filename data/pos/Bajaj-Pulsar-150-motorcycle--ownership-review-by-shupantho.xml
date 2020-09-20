@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Bajaj-Pulsar-150-motorcycle--ownership-review-by-shupantho.jpg</filename>
+	<path>/home/sridharan/Images/Bajaj-Pulsar-150-motorcycle--ownership-review-by-shupantho.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>545</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>34</ymin>
+			<xmax>385</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+</annotation>
