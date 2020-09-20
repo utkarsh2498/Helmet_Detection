@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>indian-dakar-rally-privateer-cs-santosh-riding-during-desert-training.jpg</filename>
+	<path>/home/sridharan/Images/indian-dakar-rally-privateer-cs-santosh-riding-during-desert-training.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1067</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>771</xmin>
+			<ymin>50</ymin>
+			<xmax>911</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

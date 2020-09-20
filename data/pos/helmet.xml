@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>helmet.jpeg</filename>
+	<path>/home/sridharan/Images/helmet.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>474</xmin>
+			<ymin>73</ymin>
+			<xmax>513</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

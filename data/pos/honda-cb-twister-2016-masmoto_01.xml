@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>honda-cb-twister-2016-masmoto_01.jpg</filename>
+	<path>/home/sridharan/Images/honda-cb-twister-2016-masmoto_01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>658</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>741</xmin>
+			<ymin>14</ymin>
+			<xmax>841</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

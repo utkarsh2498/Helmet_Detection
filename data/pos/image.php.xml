@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>image.php.jpeg</filename>
+	<path>/home/sridharan/Images/image.php.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>565</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>38</ymin>
+			<xmax>385</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

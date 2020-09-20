@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>honda-cb-shine-test-ride-2.jpg</filename>
+	<path>/home/sridharan/Images/honda-cb-shine-test-ride-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>645</width>
+		<height>513</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>63</ymin>
+			<xmax>300</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

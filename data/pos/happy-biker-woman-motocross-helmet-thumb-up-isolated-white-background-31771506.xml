@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>happy-biker-woman-motocross-helmet-thumb-up-isolated-white-background-31771506.jpg</filename>
+	<path>/home/sridharan/Images/happy-biker-woman-motocross-helmet-thumb-up-isolated-white-background-31771506.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>6</ymin>
+			<xmax>613</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

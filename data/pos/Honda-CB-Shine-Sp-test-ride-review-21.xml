@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Honda-CB-Shine-Sp-test-ride-review-21.jpg</filename>
+	<path>/home/sridharan/Images/Honda-CB-Shine-Sp-test-ride-review-21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1023</width>
+		<height>725</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>555</xmin>
+			<ymin>51</ymin>
+			<xmax>641</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>
